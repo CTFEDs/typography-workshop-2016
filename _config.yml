@@ -1,7 +1,7 @@
 # Site settings
 title: Open Design Cape Town 2016
-baseurl: "/typography-workshop-2016
-" # the subpath of your site, e.g. /blog/
+baseurl: "/typography-workshop-2016"
+# the subpath of your site, e.g. /blog/
 # url: "http://ctfeds.org" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
