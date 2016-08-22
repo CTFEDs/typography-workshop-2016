@@ -3,4 +3,4 @@ layout: default
 title: Typography Workshop 2016
 ---
 
-# Workshop outline
+# Typography Workshop 2016
