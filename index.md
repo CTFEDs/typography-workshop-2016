@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Workshop outline
+title: Typography Workshop 2016
 ---
 
-# Coming soon(ish)
+# Workshop outline
