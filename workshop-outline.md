@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: page
 title: Workshop outline
 ---
 
-# Coming soon(ish)
+## Coming soon(ish)
 

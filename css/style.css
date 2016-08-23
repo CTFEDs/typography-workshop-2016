@@ -213,8 +213,44 @@ a:hover {
 }
 
 .current a {
-    color: #61ba96;
+  color: #61ba96;
 }
+
+.internal-nav {
+  overflow: hidden;
+}
+
+.internal-nav ul {
+  list-style: none;
+  padding-left:  0;
+}
+
+.internal-nav li {
+
+}
+
+@media only screen and (min-width: 40.625em) {
+  .internal-nav li {
+    display: inline-block;
+    margin-right: 30px;
+  }
+}
+
+
+.internal-nav a {
+  background-color: #61ba96;
+  color:  white;
+  display: block;
+  padding:  .25em 1em;
+  text-decoration: none;
+  text-transform: uppercase;
+  transition: background-color 250ms ease-in-out;
+}
+
+.internal-nav a:hover, .internal-nav .active {
+  background-color: #e66c57;
+}
+
 
 hr {
   border-top: solid 1px #61ba96;
