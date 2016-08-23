@@ -272,6 +272,22 @@ hr {
   line-height: 1.25;
 }
 
+.latest ol, .latest ul {
+  padding-left:  20px;
+}
+
+.latest ol ul, .latest ul ul {
+  margin-bottom:  30px;
+}
+
+.latest li {
+
+}
+
+.latest a {
+
+}
+
 .block-header {
   color: #61ba96;
   margin: 0;
