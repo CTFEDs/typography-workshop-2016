@@ -12,6 +12,7 @@ title: Workshop outline
 2. **Selecting and combining typefaces**<br>
     Principles for selecting and combining typefaces.<br>
 
+3. font face observer, font loading api, font-display
 
 
 
