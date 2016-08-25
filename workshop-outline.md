@@ -39,3 +39,4 @@ title: Workshop outline
 - Responsive typography as its own section?
 - Open Type features?
 - Replace #6 with general section on CSS type properties?
+- svg as an additional option for logos, etc?
