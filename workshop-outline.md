@@ -3,40 +3,42 @@ layout: page
 title: Workshop outline
 ---
 
-## We will cover the following topics
+## Part one - getting webfonts to work and work well
+
+1. **System fonts and font stacks**<br>
+    What are common system fonts? What are "safe" fonts to use?<br>
+    **Tasks**: Implement and test a system font stack
+
+2. **Webfont hosting services**
+    What are webfonts? Three hosting options: Typekit, fonts.com, Google Fonts.<br>
+    **Tasks**: Implement and test a hosted font stack
+
+3. **Self-hosting webfonts**
+    Where to get fonts. fontsquirrel.com. @font-face rules.<br>
+    **Tasks**: Implement and test a self-hosted font stack
+
+4. **Best practice for loading fonts**<br>
+    font loading api, fontfaceobserver, `font-display`<br>
+    **Tasks**: Implement and test above techniques
+
+
+## Part two - improving typography on the web
 
 1. **Shoulders, arms, and ears. Say what?**<br>
     No it's not an anatomy lesson. These are terms used to describe different parts of letters. We will describe some of these terms and discuss how they influence readability and legibility.<br>
     **Tasks**: Identify parts of letterforms. Evaluate typefaces for readability and legibility.
 
-2. **System fonts and font stacks**<br>
-    What are common system fonts? What are "safe" fonts to use?<br>
-    **Tasks**: Implement and test a system font stack
-
-3. **Webfont hosting services**
-    What are webfonts? Three hosting options: Typekit, fonts.com, Google Fonts.<br>
-    **Tasks**: Implement and test a hosted font stack
-
-4. **Self-hosting webfonts**
-    Where to get fonts. fontsquirrel.com. @font-face rules.<br>
-    **Tasks**: Implement and test a self-hosted font stack
-
-5. **Combining typefaces**
+2. **Combining typefaces**
     How to select and combine typefaces.
     **Tasks**: Select two typefaces for combination use. Implement and test.<br>
 
-6. **Units, measure and vertical rhythm**
-    ems, rems, px, etc. Which is best? Responsive typography discussion.<br>
+4. **CSS font properties**<br>
+    From CSS2.1 properties like `line-height` to CCS3 proeprties like `font-feature-settings`
     **Tasks**: ?????
 
-7. **Best practice for loading fonts**<br>
-    font loading api, fontfaceobserver, `font-display`<br>
-    **Tasks**: Implement and test above techniques
+3. **Units, measure and vertical rhythm**
+    ems, rems, px, etc. Which is best?<br>
+    **Tasks**: ?????
 
-
-### Not included but should be?
-
-- Responsive typography as its own section?
-- Open Type features?
-- Replace #6 with general section on CSS type properties?
-- svg as an additional option for logos, etc?
+4. **Responsive typography**<br>
+    **Tasks**: ?????
