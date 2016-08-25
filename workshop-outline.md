@@ -9,11 +9,11 @@ title: Workshop outline
     What are common system fonts? What are "safe" fonts to use?<br>
     **Tasks**: Implement and test a system font stack
 
-2. **Webfont hosting services**
+2. **Webfont hosting services**<br>
     What are webfonts? Three hosting options: Typekit, fonts.com, Google Fonts.<br>
     **Tasks**: Implement and test a hosted font stack
 
-3. **Self-hosting webfonts**
+3. **Self-hosting webfonts**<br>
     Where to get fonts. fontsquirrel.com. @font-face rules.<br>
     **Tasks**: Implement and test a self-hosted font stack
 
@@ -28,15 +28,15 @@ title: Workshop outline
     No it's not an anatomy lesson. These are terms used to describe different parts of letters. We will describe some of these terms and discuss how they influence readability and legibility.<br>
     **Tasks**: Identify parts of letterforms. Evaluate typefaces for readability and legibility.
 
-2. **Combining typefaces**
-    How to select and combine typefaces.
+2. **Combining typefaces**<br>
+    How to select and combine typefaces.<br>
     **Tasks**: Select two typefaces for combination use. Implement and test.<br>
 
 4. **CSS font properties**<br>
     From CSS2.1 properties like `line-height` to CCS3 proeprties like `font-feature-settings`
     **Tasks**: ?????
 
-3. **Units, measure and vertical rhythm**
+3. **Units, measure and vertical rhythm**<br>
     ems, rems, px, etc. Which is best?<br>
     **Tasks**: ?????
 
