@@ -10,27 +10,27 @@ title: Workshop outline
     **Tasks**: Identify parts of letterforms. Evaluate typefaces for readability and legibility.
 
 2. **System fonts and font stacks**<br>
-    What are common system fonts? What are "safe" fonts to use?
+    What are common system fonts? What are "safe" fonts to use?<br>
     **Tasks**: Implement and test a system font stack
 
 3. **Webfont hosting services**
-    What are webfonts? Three hosting options: Typekit, fonts.com, Google Fonts
+    What are webfonts? Three hosting options: Typekit, fonts.com, Google Fonts.<br>
     **Tasks**: Implement and test a hosted font stack
 
 4. **Self-hosting webfonts**
-    Where to get fonts. fontsquirrel.com. @font-face rules.
+    Where to get fonts. fontsquirrel.com. @font-face rules.<br>
     **Tasks**: Implement and test a self-hosted font stack
 
 5. **Combining typefaces**
     How to select and combine typefaces.
-    **Tasks**: Select two typefaces for combination use. Implement and test.
+    **Tasks**: Select two typefaces for combination use. Implement and test.<br>
 
 6. **Units, measure and vertical rhythm**
-    ems, rems, px, etc. Which is best? Responsive typography discussion.
-    **Tasks**:
+    ems, rems, px, etc. Which is best? Responsive typography discussion.<br>
+    **Tasks**: ?????
 
 7. **Best practice for loading fonts**<br>
-    font loading api, fontfaceobserver, `font-display`
+    font loading api, fontfaceobserver, `font-display`<br>
     **Tasks**: Implement and test above techniques
 
 
