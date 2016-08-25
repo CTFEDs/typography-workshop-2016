@@ -10,15 +10,20 @@ title: Workshop outline
     **Tasks**: Implement and test a system font stack
 
 2. **Webfont hosting services**<br>
-    What are webfonts? Three hosting options: Typekit, fonts.com, Google Fonts.<br>
+    What are webfonts?<br>
+    We will look at three hosting options: Typekit, fonts.com, Google Fonts.<br>
     **Tasks**: Implement and test a hosted font stack
 
 3. **Self-hosting webfonts**<br>
-    Where to get fonts. fontsquirrel.com. @font-face rules.<br>
+    Where to get fonts.<br>
+    @font-face rules.<br>
+    Generating webfonts at fontsquirrel.com.<br>
     **Tasks**: Implement and test a self-hosted font stack
 
 4. **Best practice for loading fonts**<br>
-    font loading api, fontfaceobserver, `font-display`<br>
+    font loading api<br>
+    fontfaceobserver<br>
+    `font-display`<br>
     **Tasks**: Implement and test above techniques
 
 
@@ -33,7 +38,7 @@ title: Workshop outline
     **Tasks**: Select two typefaces for combination use. Implement and test.<br>
 
 4. **CSS font properties**<br>
-    From CSS2.1 properties like `line-height` to CCS3 proeprties like `font-feature-settings`
+    From CSS2.1 properties like `line-height` to CCS3 properties like `font-feature-settings`
     **Tasks**: ?????
 
 3. **Units, measure and vertical rhythm**<br>
