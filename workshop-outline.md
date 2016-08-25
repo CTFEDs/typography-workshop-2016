@@ -11,7 +11,7 @@ title: Workshop outline
 
 2. **Webfont hosting services**<br>
     What are webfonts?<br>
-    We will look at three hosting options: Typekit, fonts.com, Google Fonts.<br>
+    We will look at three hosting options: Typekit, MyFonts, Google Fonts.<br>
     **Tasks**: Implement and test a hosted font stack
 
 3. **Self-hosting webfonts**<br>
