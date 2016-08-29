@@ -1,20 +1,17 @@
-# Typography workshop
+# Web Typography workshop
 
 ## Part one - getting webfonts to work and work well
 
-In October we are running part one of a two part workshop series on web typography. In the first workshop we will look at getting webfonts to work and work well. The first part will approach webfonts from an accessibility and performance point of view and we will consider the pros and cons of the following:
+In October we are running part one of a two part workshop series on web typography. In the first workshop we'll look at getting webfonts to work and work well. We'll approach webfonts from an accessibility and performance point of view and consider the pros and cons of the following:
 
 - **System fonts and font stacks**
 - **Webfont hosting services**
 - **Self-hosting webfonts**
 - **Best practice for loading fonts**
 
-During the workshop we will have a few presentations on some theoretical and technical considerations and there will be hands on practical exercises.
+The workshop will be hands-on practical exercises, with a few short presentations (on theoretical and technical considerations) in-between.
 
-As an attendee you ideally:
-
-- have some knowledge of HTML, CSS and javascript or are willing to learn
-- something about having a laptop to work on but don't want to exclude on that basis
+As an attendee you should have some knowledge of HTML, CSS and JavaScript (or are willing to learn). If you have a laptop, bring it with you.
 
 ## About the (special) RSVPs
 
