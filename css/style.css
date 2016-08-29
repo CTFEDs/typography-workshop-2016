@@ -5,7 +5,6 @@ figcaption,
 figure,
 footer,
 header,
-hgroup,
 main,
 nav,
 section,
@@ -160,12 +159,12 @@ h1 {
 	text-decoration: none;
 }
 
-.logo-link:before {
+.logo-link::before {
 	content:'\007B';
 	font-size:1.4em;
 }
 
-.logo-link:after {
+.logo-link::after {
 	content:'\007D';
 	font-size:1.4em;
 }
@@ -280,14 +279,6 @@ hr {
 
 .latest ol ul, .latest ul ul {
   margin-bottom:  30px;
-}
-
-.latest li {
-
-}
-
-.latest a {
-
 }
 
 .block-header {
