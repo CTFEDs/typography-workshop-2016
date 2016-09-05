@@ -11,7 +11,7 @@ In October we are running part one of a two part workshop series on web typograp
 
 The workshop will be hands-on practical exercises, with a few short presentations (on theoretical and technical considerations) in-between.
 
-As an attendee you should have some knowledge of HTML, CSS and JavaScript (or are willing to learn). If you have a laptop, bring it with you.
+As an attendee you should have some knowledge of HTML, CSS and JavaScript (or be willing to learn). If you have a laptop, bring it with you.
 
 ## About the (special) RSVPs
 
