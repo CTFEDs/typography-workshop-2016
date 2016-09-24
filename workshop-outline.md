@@ -3,47 +3,60 @@ layout: page
 title: Workshop outline
 ---
 
-## Part one - getting webfonts to work and work well
+# Workshop outline: getting webfonts to work and work well
 
-1. **System fonts and font stacks**<br>
-    What are common system fonts? What are "safe" fonts to use?<br>
-    **Tasks**: Implement and test a system font stack
+## Warm-up questions
 
-2. **Webfont hosting services**<br>
-    What are webfonts?<br>
-    We will look at three hosting options: Typekit, MyFonts, Google Fonts.<br>
-    **Tasks**: Implement and test a hosted font stack
+* What's a webfont?
+* What does "work well" mean?
 
-3. **Self-hosting webfonts**<br>
-    Where to get fonts.<br>
-    @font-face rules.<br>
-    Generating webfonts at fontsquirrel.com.<br>
-    **Tasks**: Implement and test a self-hosted font stack
+## Opening activity (as people arrive)
 
-4. **Best practice for loading fonts**<br>
-    font loading api<br>
-    fontfaceobserver<br>
-    `font-display`<br>
-    **Tasks**: Implement and test above techniques
+* Write your warm-up answers on the two posters.
 
+## Agenda, big faces
 
-## Part two - improving typography on the web
+## Table scribbles
 
-1. **Shoulders, arms, and ears. Say what?**<br>
-    No it's not an anatomy lesson. These are terms used to describe different parts of letters. We will describe some of these terms and discuss how they influence readability and legibility.<br>
-    **Tasks**: Identify parts of letterforms. Evaluate typefaces for readability and legibility.
+* What fonts have you used recently?
+* Why did you use that font?
 
-2. **Combining typefaces**<br>
-    How to select and combine typefaces.<br>
-    **Tasks**: Select two typefaces for combination use. Implement and test.<br>
+## 1. System fonts and font stacks
 
-4. **CSS font properties**<br>
-    From CSS2.1 properties like `line-height` to CCS3 properties like `font-feature-settings`
-    **Tasks**: ?????
+What are common system fonts? What are "safe" fonts to use?
 
-3. **Units, measure and vertical rhythm**<br>
-    ems, rems, px, etc. Which is best?<br>
-    **Tasks**: ?????
+**Tasks**: Implement and test a system font stack
 
-4. **Responsive typography**<br>
-    **Tasks**: ?????
+## 2. Webfont hosting services
+
+What are webfonts?
+
+We will look at three hosting options: Typekit, MyFonts, Google Fonts.
+
+**Tasks**: Implement and test a hosted font stack
+
+## 3. Self-hosting webfonts
+
+Where to get fonts.
+
+@font-face rules.
+
+Generating webfonts at fontsquirrel.com.
+
+**Tasks**: Implement and test a self-hosted font stack
+
+## 4. Best practice for loading fonts
+
+font loading api
+
+fontfaceobserver
+
+`font-display`
+
+**Tasks**: Implement and test above techniques
+
+## Follow up on Tuesday morning
+
+* What's 1 thing you learned at the workshop?
+* What will you do with what you learned?
+* Post on meetup to inspire the other attendees! :)
