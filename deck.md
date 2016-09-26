@@ -1,6 +1,6 @@
 ## Write on the posters
-# what's a webfont?
-# what's "work well"?
+## what's a webfont?
+## what's "work well"?
 
 ![](img/paper-roll.jpg)
 
@@ -9,7 +9,7 @@
 ---
 
 ## Part one
-# Getting webfonts to work and work well
+## Getting webfonts to work and work well
 
 ^ second part next year
 TODO: contents of part 2

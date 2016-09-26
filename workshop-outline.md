@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Workshop outline
+title: Workshop outline - getting webfonts to work and work well
 ---
-
-# Workshop outline: getting webfonts to work and work well
 
 ## Warm-up questions
 
@@ -47,13 +45,13 @@ Generating webfonts at fontsquirrel.com.
 
 ## 4. Best practice for loading fonts
 
-font loading api
+font loading api - mention but we won't use this
 
-fontfaceobserver
+fontfaceobserver - example use
 
-`font-display`
+`font-display` - in the future
 
-**Tasks**: Implement and test above techniques
+**Tasks**: Implement and test fontfaceobserver
 
 ## Follow up on Tuesday morning
 
