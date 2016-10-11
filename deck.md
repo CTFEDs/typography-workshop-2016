@@ -1,6 +1,9 @@
+autoscale: true,
+build-lists: true
+
 ## Write on the posters
-## what's a webfont?
-## what's "work well"?
+### what's a webfont?
+### what's "work well"?
 
 ![](img/paper-roll.jpg)
 
@@ -16,10 +19,10 @@ TODO: contents of part 2
 
 ---
 
-## System fonts and font stacks
-## Webfont hosting services
-## Self-hosting webfonts
-## Best practice for loading fonts
+### System fonts and font stacks
+### Webfont hosting services
+### Self-hosting webfonts
+### Best practice for loading fonts
 
 ^ Agenda
 we'll do each of these today
@@ -37,8 +40,8 @@ name, job, employer
 
 ## Table talk intros
 
-# What fonts have<br> you used recently?<br><br>
-# Why did you use<br> that font?
+### What fonts have<br> you used recently?<br><br>
+### Why did you use<br> that font?
 
 ![](img/paper.jpg)
 
@@ -46,15 +49,15 @@ name, job, employer
 
 ---
 
-# 1. System fonts &
-# Font stacks
+## 1. System fonts &
+## Font stacks
 
 ^ common system fonts?
 "safe" fonts?
 
 ---
 
-# font-family:<br> Helvetica,<br> Arial,<br> sans-serif;
+## font-family:<br> Helvetica,<br> Arial,<br> sans-serif;
 
 ^ talk through this
 
@@ -69,21 +72,21 @@ TODO: where to test?
 
 ---
 
-# 1 sentence summary:<br> what you've learned
+## One sentence summary:<br> what you've learned
 
 ![](img/discussion.jpg)
 
 ---
 
-# 2. Webfont hosting services
+## 2. Webfont hosting services
 
 ^ ask audience
 
 ---
 
-# Typekit
-# MyFonts
-# Google Fonts
+## MyFonts
+## Typekit
+## Google Fonts
 
 ---
 
@@ -93,8 +96,8 @@ TODO: where to test?
 
 ---
 
-# Most important<br> thing so far<br><br>
-# Write on the poster
+## Most important<br> thing so far<br>
+### Write on the poster
 
 ![](img/flipchart.jpg)
 
@@ -103,7 +106,7 @@ TODO: in the kitchen?
 
 ---
 
-# 3. Self-hosting webfonts
+## 3. Self-hosting webfonts
 
 ^ ask audience how
 
@@ -122,47 +125,47 @@ show example
 
 ---
 
-# 1 sentence summary:<br> what you've learned
+## One sentence summary:<br> what you've learned
 
 ![](img/discussion.jpg)
 
 ---
 
-# 4. Best practice<br>for loading
+## 4. Best practice<br>for loading
 
 ---
 
-# font loading api
+## font loading api
 
 ---
 
-# fontfaceobserver
+## fontfaceobserver
 
 ---
 
-# Best it!
+## Best it!
 
 ![](img/coding.jpg)
 
 ---
 
-# What will you do with what you learned?
+## What will you do with what you learned?
 
 ![](img/the-thinker.jpg)
 
 ---
 
-# Other side of the room<br><br>
-# Share your plan<br><br>
-# :hand:
+## Other side of the room<br>
+## Share your plan<br>
+## :hand:
 
 ^ high five
 
 ---
 
-# Facilitator Feedback<br><br>
-# Sticky notes<br><br>
-# One thing we<br> could do differently
+## Facilitator Feedback<br><br>
+### Sticky notes<br>
+### One thing we<br> could do differently
 
 ![](img/stickynotes.jpg)
 
