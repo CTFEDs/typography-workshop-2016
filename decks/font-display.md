@@ -7,13 +7,17 @@ The font-display descriptor for `@font-face` determines how a font face is displ
 
 ^ Deciding the behavior for a web font as it is loading can be an important performance tuning technique. The new font-display descriptor for @font-face lets developers decide how their web fonts will render (or fallback), depending on how long it takes for them to load.
 
+![](../img/alphabet.jpg)
+
 ---
 
 ## Current browsers
 
 Browsers implement a timeout after which a fallback font will be used
 
-![inline](img/font-display.png)
+![inline](../img/font-display.png)
+
+![](../img/alphabet.jpg)
 
 ^
 Chrome and Firefox have a three second timeout after which the text is shown with the fallback font. If the font manages to download, then eventually a swap occurs and the text is re-rendered with the intended font.
@@ -31,6 +35,8 @@ To make matters worse, developers have limited control in deciding how these rul
 - font block
 - font swap
 - font failure
+
+![](../img/alphabet.jpg)
 
 ^
 font-display segments the lifetime of a font download into three major periods.
@@ -52,6 +58,8 @@ The font failure period occurs immediately after the font swap period. If the fo
 - fallback
 - optional
 
+![](../img/alphabet.jpg)
+
 ^
 auto uses whatever font display strategy the user-agent uses. Most browsers currently have a default strategy similar to block.
 
@@ -71,9 +79,13 @@ optional gives the font face an extremely small block period (100ms or less is r
 
 # Browser support
 
+![](../img/alphabet.jpg)
+
 ---
 
 # none
+
+![](../img/alphabet.jpg)
 
 ---
 
@@ -82,3 +94,5 @@ optional gives the font face an extremely small block period (100ms or less is r
 - Behind the _Experimental Web Platform Features_ flag in desktop Chrome 49
 - Available in Firefox 46+. To enable, set the 'layout.css.font-display.enabled' pref in about:config to true
 - Shipped in Opera and Opera for Android
+
+![](../img/alphabet.jpg)

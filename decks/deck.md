@@ -5,7 +5,7 @@ build-lists: true
 ### what's a webfont?
 ### what's "work well"?
 
-![](img/paper-roll.jpg)
+![](../img/paper-roll.jpg)
 
 ^ review the answers
 
@@ -31,7 +31,7 @@ we'll do each of these today
 
 # Big Faces
 
-![](img/justin.jpg) ![](img/steve.jpg)
+![](../img/justin.jpg) ![](../img/steve.jpg)
 
 ^ intro selves
 name, job, employer
@@ -43,7 +43,7 @@ name, job, employer
 ### What fonts have<br> you used recently?<br><br>
 ### Why did you use<br> that font?
 
-![](img/paper.jpg)
+![](../img/paper.jpg)
 
 ^ then shout outs
 
@@ -68,13 +68,13 @@ name, job, employer
 ^ TODO: how to test?
 TODO: where to test?
 
-![](img/coding.jpg)
+![](../img/coding.jpg)
 
 ---
 
 ## One sentence summary:<br> what you've learned
 
-![](img/discussion.jpg)
+![](../img/discussion.jpg)
 
 ---
 
@@ -92,14 +92,14 @@ TODO: where to test?
 
 # Hosted!
 
-![](img/coding.jpg)
+![](../img/coding.jpg)
 
 ---
 
 ## Most important<br> thing so far<br>
 ### Write on the poster
 
-![](img/flipchart.jpg)
+![](../img/flipchart.jpg)
 
 ^ break
 TODO: in the kitchen?
@@ -121,13 +121,13 @@ show example
 
 # Self-hosted!
 
-![](img/coding.jpg)
+![](../img/coding.jpg)
 
 ---
 
 ## One sentence summary:<br> what you've learned
 
-![](img/discussion.jpg)
+![](../img/discussion.jpg)
 
 ---
 
@@ -145,13 +145,18 @@ show example
 
 ## Best it!
 
-![](img/coding.jpg)
+![](../img/coding.jpg)
 
 ---
 
+## `font-display`
+
+---
+
+
 ## What will you do with what you learned?
 
-![](img/the-thinker.jpg)
+![](../img/the-thinker.jpg)
 
 ---
 
@@ -167,6 +172,6 @@ show example
 ### Sticky notes<br>
 ### One thing we<br> could do differently
 
-![](img/stickynotes.jpg)
+![](../img/stickynotes.jpg)
 
 ^ leave them on the table
