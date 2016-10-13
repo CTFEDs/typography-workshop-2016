@@ -1,6 +1,26 @@
 autoscale: true,
 build-lists: true
 
+# Free fonts
+
+- How free is free?
+
+- Open font license
+
+---
+
+# Free font resources
+
+- [Google Fonts](https://fonts.google.com/)
+
+- [Font Squirrel](https://www.fontsquirrel.com/)
+
+- [The League of Moveable Type](https://www.theleagueofmoveabletype.com/The League of Moveable Type)
+
+- [My Fonts free](https://www.myfonts.com/search/tag%3Afree/fonts/)
+
+---
+
 # `@font-face`
 
 The `@font-face` CSS at-rule allows authors to specify online fonts to display text on their web pages

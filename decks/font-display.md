@@ -11,25 +11,6 @@ The font-display descriptor for `@font-face` determines how a font face is displ
 
 ---
 
-## Current browsers
-
-Browsers implement a timeout after which a fallback font will be used
-
-![inline](../img/font-display.png)
-
-![](../img/alphabet.jpg)
-
-^
-Chrome and Firefox have a three second timeout after which the text is shown with the fallback font. If the font manages to download, then eventually a swap occurs and the text is re-rendered with the intended font.
-^
-Internet Explorer has a zero second timeout which results in immediate text rendering. If the requested font is not yet available, a fallback is used, and text is re-rendered later once the requested font becomes available.
-^
-Safari has no timeout behavior (or at least nothing beyond a baseline network timeout).
-^
-To make matters worse, developers have limited control in deciding how these rules will affect their application.
-
----
-
 ## `font-display` periods
 
 - font block
