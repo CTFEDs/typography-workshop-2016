@@ -17,6 +17,8 @@ build-lists: true
 
 - Because fonts are referenced in the `<head>` of the HTML document they must be downloaded before they can be displayed
 
+![](../img/alphabet.jpg)
+
 ---
 
 ## Current browsers
@@ -36,7 +38,7 @@ Safari has no timeout behavior (or at least nothing beyond a baseline network ti
 ^
 To make matters worse, developers have limited control in deciding how these rules will affect their application.
 ^
-In some versions of iOS Safari, users could see a blank page up to thirty seconds, depending on the speed of their internet connection and the size of the site’s custom fonts.
+In some versions of iOS Safari, users could see a blank page up to thirty seconds, depending on the speed of their internet connection and the size of the site's custom fonts.
 
 ---
 
