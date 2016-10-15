@@ -2,8 +2,8 @@ autoscale: true,
 build-lists: true
 
 ## Write on the stickies
-### what's a webfont?
-### what's "work well"?
+### have you used web fonts?
+### how did you use web fonts?
 
 ![](../img/paper-roll.jpg)
 
@@ -107,7 +107,7 @@ TODO: where to test?
 ---
 
 ## Most important<br> thing so far<br>
-### Write on the poster
+### Write on the stickies
 
 ![](../img/flipchart.jpg)
 
