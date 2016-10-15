@@ -1,7 +1,7 @@
 autoscale: true,
 build-lists: true
 
-## Write on the posters
+## Write on the stickies
 ### what's a webfont?
 ### what's "work well"?
 
