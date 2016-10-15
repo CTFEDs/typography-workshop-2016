@@ -17,6 +17,8 @@ build-lists: true
 ^ second part next year
 TODO: contents of part 2
 
+![](../img/alphabet.jpg)
+
 ---
 
 ### System fonts and font stacks
@@ -26,6 +28,8 @@ TODO: contents of part 2
 
 ^ Agenda
 we'll do each of these today
+
+![](../img/alphabet.jpg)
 
 ---
 
@@ -52,12 +56,16 @@ name, job, employer
 ## 1. System fonts &
 ## Font stacks
 
+![](../img/alphabet.jpg)
+
 ^ common system fonts?
 "safe" fonts?
 
 ---
 
 ## font-family:<br> Helvetica,<br> Arial,<br> sans-serif;
+
+![](../img/alphabet.jpg)
 
 ^ talk through this
 
@@ -87,6 +95,8 @@ TODO: where to test?
 ## MyFonts
 ## Typekit
 ## Google Fonts
+
+![](../img/alphabet.jpg)
 
 ---
 

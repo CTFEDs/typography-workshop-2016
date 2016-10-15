@@ -3,8 +3,6 @@ layout: page
 title: Typography workshop
 ---
 
-# Web Typography workshop
-
 ## Part one - getting webfonts to work and work well
 
 In October we are running part one of a two part workshop series on web typography. In the first workshop we'll look at getting webfonts to work and work well. We'll approach webfonts from an accessibility and performance point of view and consider the pros and cons of the following:
