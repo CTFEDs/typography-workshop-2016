@@ -42,3 +42,7 @@ Free with CC. Can also sync desktop fonts
 - JavaScript
 
 ![](../img/alphabet.jpg)
+
+---
+
+http://justinslack.com/workshop/type-examples.zip
